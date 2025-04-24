@@ -37,14 +37,11 @@ This project presents an Exploratory Data Analysis on the **Ford GoBike Trip Dat
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Python (Pandas, NumPy)
 - Google Colab
 - Seaborn & Matplotlib
 - Missingno for visualizing null values
 
----
-
-## 📌 Folder Structure
 
